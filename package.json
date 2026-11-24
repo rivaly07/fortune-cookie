@@ -1,0 +1,21 @@
+{
+  "name": "fortune-cookie",
+  "version": "1.0.0",
+  "description": "Fortune Cookie for an AI Agent - make.fun entry",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "run": "node --import=tsx main.ts",
+    "verify": "node verify.mjs",
+    "test": "npm run run && npm run verify"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
