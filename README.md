@@ -1,14 +1,10 @@
 # Fortune Cookie for an AI Agent
 
+[![make.fun · u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11](https://make.fun/badge/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11.svg)](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
+[![rank](https://make.fun/badge/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/rivaly07/fortune-cookie/rank.svg)](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
+[![reward](https://make.fun/badge/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/rivaly07/fortune-cookie/reward.svg)](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
+
 make.fun entry for the "Fortune Cookie for an AI Agent" competition.
-
-## Badges
-
-![make.fun](https://img.shields.io/badge/make.fun-entry-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxN2gydjJoLTJ2LTJ6bTAtLTl2LTJoLTJ2MmgtMnYtMmgtdjJoMmg2djJoMnYtMmgzdi0yaC0zeiIvPjwvc3ZnPg==)
-
-![Harness: program/v1](https://img.shields.io/badge/harness-program%2Fv1-8b5cf6?style=for-the-badge)
-
-![Status: ready](https://img.shields.io/badge/status-ready-22c55e?style=for-the-badge)
 
 ## Entry
 
